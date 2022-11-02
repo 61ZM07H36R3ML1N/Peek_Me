@@ -27,13 +27,11 @@ export default {
             name: 'image',
             title: 'Image',
             type: 'image',
-            options: {
-                hotspot: true
-            }
+            options 
         },
         {
-            name: 'userId',
-            title: 'UserID',
+            name: 'title',
+            title: 'Title',
             type: 'string',
         },
         
