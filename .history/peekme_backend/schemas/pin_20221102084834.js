@@ -38,14 +38,16 @@ export default {
         },
         {
             name: 'postedBy',
-            title: 'PostedBy',
-            type: 'postedBy',
-        },
-        {
-            name: 'save',
-            title: 'Save',
-            type: 'array',
-            of: [{type: 'save' }]
+            title: 'Title',
+            type: 'string',
+        },{
+            name: 'title',
+            title: 'Title',
+            type: 'string',
+        },{
+            name: 'title',
+            title: 'Title',
+            type: 'string',
         },
         
     ]

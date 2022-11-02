@@ -45,7 +45,6 @@ export default {
             name: 'save',
             title: 'Save',
             type: 'array',
-            of: [{type: 'save' }]
         },
         
     ]
