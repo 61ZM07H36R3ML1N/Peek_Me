@@ -9,14 +9,14 @@ export default {
             type: 'string',
         },
         {
-            name: 'about',
-            title: 'About',
+            name: 'title',
+            title: 'Title',
             type: 'string',
         },
         {
-            name: 'destination',
-            title: 'Destination',
-            type: 'url',
+            name: 'title',
+            title: 'Title',
+            type: 'string',
         },
         
     ]
